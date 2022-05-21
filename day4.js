@@ -14,5 +14,6 @@ function lowToHigh() {
         return a.price - b.price;
     })
     console.log(products);
+
 }
 lowToHigh();
